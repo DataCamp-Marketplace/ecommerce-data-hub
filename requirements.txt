@@ -1,1 +1,11 @@
-
+# requirements.txt
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+jupyter
+requests
+sqlalchemy
+apache-airflow
+docker
