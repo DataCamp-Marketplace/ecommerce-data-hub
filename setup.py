@@ -13,7 +13,7 @@ extras_require = {
     'ml': [
         'xgboost==1.4.2',
         'lightgbm==3.2.1',
-        'tensorflow==2.5.0',
+        'tensorflow==2.12.1',
     ],
     'production': [
         'flask==2.0.1',
